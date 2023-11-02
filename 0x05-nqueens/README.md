@@ -1,2 +1,2 @@
-# Nqueens
+# 0-Nqueens
 
