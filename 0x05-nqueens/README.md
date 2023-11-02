@@ -1,2 +1,2 @@
-# To be updated
+# Nqueens
 
